@@ -93,8 +93,6 @@ export default {
               rangeSeparator: ` ${this.separator} `
           }
       })
-      const wrapper = document.querySelector('.dropdown-menu div')
-      wrapper.classList.remove('overflow-hidden')
     })
   },
 
